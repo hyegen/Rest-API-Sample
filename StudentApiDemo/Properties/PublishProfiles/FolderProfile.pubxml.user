@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\publish\student.restapi</_PublishTargetUrl>
+    <History>True|2023-08-31T13:33:29.5562531Z;True|2023-08-31T15:04:50.4857785+03:00;True|2023-08-22T13:53:14.2806431+03:00;True|2023-08-22T11:33:55.7898755+03:00;True|2023-08-21T17:47:47.0432105+03:00;True|2023-08-21T17:34:15.6620355+03:00;True|2023-08-21T17:29:46.4623215+03:00;True|2023-08-21T16:39:20.2669653+03:00;True|2023-08-21T16:38:10.2767718+03:00;True|2023-08-21T16:36:39.9582210+03:00;True|2023-08-21T16:30:13.8271225+03:00;True|2023-08-21T16:27:45.2262394+03:00;True|2023-08-21T15:58:12.6249436+03:00;True|2023-08-21T14:24:57.9949200+03:00;True|2023-08-21T14:08:00.3257688+03:00;False|2023-08-21T14:06:58.7892730+03:00;True|2023-08-21T13:41:33.0895843+03:00;True|2023-08-15T16:40:00.5437556+03:00;</History>
+  </PropertyGroup>
+</Project>
