@@ -112,9 +112,5 @@ namespace StudentApiDemo.Controllers
                 return null;
             }
         }
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
     }
 }
