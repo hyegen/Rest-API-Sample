@@ -59,11 +59,6 @@ namespace StudentApiDemo.Models
                 result.NAME = student.NAME;
                 result.SURNAME = student.SURNAME;
                 result.MARKS = student.MARKS;
-                //resultID = student.DEPARTMENTID;
-                //if (student.DEPARTMENTID !=0)
-                //{
-                //    result.DEPARTMENTID = student.DEPARTMENTID;
-                //}
                 await appDbContext.SaveChangesAsync();
                 return result;
             }
